@@ -1,0 +1,10 @@
+# Ignore data files and outputs
+*.csv
+*.xlsx
+*.ipynb
+
+# Ignore virtual environment
+venv/
+
+# (אם ברשותך תיקיות נוספות עם קבצי נתונים)
+gross-plans-agent/
